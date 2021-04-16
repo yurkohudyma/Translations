@@ -11,6 +11,7 @@ Some of colleagues who contributed translations:
 - [Aghiad Alzein](https://github.com/m-agh-ze) - Arabic
 - [RodionGork](https://github.com/RodionGork) - Russian
 - [Radovan Markus](https://www.codeabbey.com/index/user_profile/rajkoisawesome) - Slovak
+- [yurkohudyma] (https://github.com/yurkohudyma) - Ukrainian
 
 We are going to create translations for problem statements of the CodeAbbey site. Most wanted languages are `French` and `Spanish` though we'll be glad to add `Italian`, `German`, `Hindi`, `Chinese` and others. As about `Russian` - the site's author is able to do it himself.
 
